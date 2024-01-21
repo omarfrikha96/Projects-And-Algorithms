@@ -31,7 +31,7 @@ class LinkedList {
 }
 
 SLL1 = new LinkedList();
-console.log(SLL1.addFront(18));
-console.log(SLL1.addFront(20));
-console.log(SLL1.removeFront());
-console.log(SLL1.front());
+SLL1.addFront(18);
+SLL1.addFront(20);
+// console.log(SLL1.removeFront());
+// console.log(SLL1.front());
